@@ -1,1 +1,1 @@
-# eggintegrador
+# Migthy Ducks Hockey League
